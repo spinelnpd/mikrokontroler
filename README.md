@@ -7,9 +7,9 @@ Alat ini mengukur **detak jantung (BPM)** dan **kadar oksigen darah (SpO₂)** d
 
 ## Link
 
-- 🎥 Video YouTube: <https://youtu.be/_ckiI6Cbu-k>
-- 📷 Instagram: <https://www.instagram.com/p/Dd_mx3PhfYQ/>
-- 🧪 Simulasi Wokwi: <https://wokwi.com/projects/476776056645355521>
+- Video YouTube: <https://youtu.be/_ckiI6Cbu-k>
+- Instagram: <https://www.instagram.com/p/Dd_mx3PhfYQ/>
+- Simulasi Wokwi: <https://wokwi.com/projects/476776056645355521>
 
 ## Komponen
 
