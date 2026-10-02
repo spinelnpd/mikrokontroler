@@ -1,0 +1,10 @@
+{
+  "name": "MAX30102",
+  "author": "Kelompok Spinel",
+  "pins": ["VIN", "SDA", "SCL", "GND", "INT", ""],
+  "controls": [
+    { "id": "finger", "label": "Jari di sensor (0 = tidak, 1 = ya)", "type": "range", "min": 0, "max": 1, "step": 1 },
+    { "id": "bpm", "label": "Detak jantung (BPM)", "type": "range", "min": 40, "max": 180, "step": 1 },
+    { "id": "spo2", "label": "SpO2 (%)", "type": "range", "min": 85, "max": 100, "step": 1 }
+  ]
+}
